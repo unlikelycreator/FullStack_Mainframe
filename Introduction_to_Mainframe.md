@@ -8,7 +8,7 @@
       - Eg: ATM transactions and Airline Ticket Booking.
       - One mainframe can run over 60 Operating System at the same time.
 
-# Applications of Maioframe
+# Applications of Mainframe
       - Banks:
             92 out of 100 banks in the world use the mainframe.
             It process nearly 100% of all credit card transactions.
