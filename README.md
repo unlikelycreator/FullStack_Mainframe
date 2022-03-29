@@ -6,10 +6,10 @@
 - I will be adding more resources I have and notes.
 - This repository will consists of basic to advance mainframe development programs.
 - We will be covering 
-      - Introduction to mainframe
-      - JCL
-      - VSAM
-      - COBOL
-      - CICS
-      - DB2
-      - and more....
+  - Introduction to mainframe
+  - JCL
+  - VSAM
+  - COBOL
+  - CICS
+  - DB2
+  - and more....
