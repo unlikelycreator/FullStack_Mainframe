@@ -52,9 +52,9 @@ Where google does 3.5 searches per day.
 - In 1964 1BM released SYSTEM 360 called Third Gen Mainframe.
 - Users can buy small mainframe and upgrade to bigger one
 - Gene Amdahl was the chief architect of SYSTEM 360.
-    o 1980's -> 3081, 3090
-    o 1990's -> SYSTEM 360
-    o 2000's-> z series
+    - 1980's -> 3081, 3090
+    - 1990's -> SYSTEM 360
+    - 2000's-> z series
 - Latest 1BM z15 mainframe and IDM LinuxOne which runs on Linux was launched in 2015.
 
 # Let is define IBM System 360
@@ -68,31 +68,31 @@ Where google does 3.5 searches per day.
 # Overview of Mainframe features
 
 - Reliability:
-      o Mainframe has ability to correct its error in its hardware components.
-      o Meantime Failure is 40 years. Thus mainframe can run years without any error.
-      o Examples ATM's run 24/7. Give correct output for each user long period of time.
+      - Mainframe has ability to correct its error in its hardware components.
+      - Meantime Failure is 40 years. Thus mainframe can run years without any error.
+      - Examples ATM's run 24/7. Give correct output for each user long period of time.
 - Availability:
-      o Mainframe can recover from tailed component withou
+      - Mainframe can recover from tailed component withou
       any impact on running system.
       Thus system keeps operating system in the case of
       component tailure.
-      o Mainframe companies boost of 99.999% of availability.
+      - Mainframe companies boost of 99.999% of availability.
 - Serviceability:
       Mainframe determine the reason why the failure
       occur so it can be repaired easily and maintained.
       This Called RAS(Reliability, Availability, Serviceability)
       together.
 - Scalability:
-      o The computation power can be scaled based on
+      - The computation power can be scaled based on
       business requirement.
-      o More processor can be added without shutting down
+      - More processor can be added without shutting down
       the system.
 - Compatibility:
-      o They have ability to run applications successfully on
+      - They have ability to run applications successfully on
       different models of system.
       Program written on old system can run on the new
       system.
-      O When compatibility will be unavoidable users will be
+      - When compatibility will be unavoidable users will be
       informed in adyanced.
       
       
@@ -102,10 +102,10 @@ Where google does 3.5 searches per day.
       - There were the general purpose Computers usable by all industries.
       - One family of Operating Systems has many different OS within it.
       Example:
-          o ACP-Airline Control Operating System.
-          o DOS/360- Disk Operating system
-          o TSS/360 - Time Sharing Operating System.
-          o CP/67- Virtual Machine and few more.
+          - ACP-Airline Control Operating System.
+          - DOS/360- Disk Operating system
+          - TSS/360 - Time Sharing Operating System.
+          - CP/67- Virtual Machine and few more.
           Current OS is Z-series with Z/OS Operating Systems.
           
 # Languages used in Mainframe
@@ -119,22 +119,22 @@ Where google does 3.5 searches per day.
       
 # Types of Data Processing in Mainframe
 - There are two types of Data processing:
-      o Batch Processing8
-      o Online Transaction Processing
+      - Batch Processing8
+      - Online Transaction Processing
 - Batch Processing:
-      o Batch Operation process without any user Interaction.
-      o A batch Job is submitted on a computer the job reads and processes the data in bulk and produce output.
-      o Eg: Monthly Bank Statement.
-        o JOB A-Calculate total monthly withdrawal.
-        o JOB B-Calculate money deposits.
-        o Job C-Calculate total balance
+      - Batch Operation process without any user Interaction.
+      - A batch Job is submitted on a computer the job reads and processes the data in bulk and produce output.
+      - Eg: Monthly Bank Statement.
+        - JOB A-Calculate total monthly withdrawal.
+        - JOB B-Calculate money deposits.
+        - Job C-Calculate total balance
 - Online Transaction Processing:
-      o It occurs interactively with the end user.
-      o Uses ClIcs (Customer information Control System).
-      o Eg: Money withdrawal from ATM, Booking airplane tickets.
+      - It occurs interactively with the end user.
+      - Uses ClIcs (Customer information Control System).
+      - Eg: Money withdrawal from ATM, Booking airplane tickets.
       
 # Inreoduction to Batch Process
 - Execution of set of programs without manual intervention.
   Eg: Instagram Upload Images.
-    o Uploaded Images need to be compressed to be stored in large databases so a time slot is allocated to do this called s Batch Window
-    o A Batch Window: A time slot where online activity is less intensive. So midnight will be considered as Batch window to do so.
+    - Uploaded Images need to be compressed to be stored in large databases so a time slot is allocated to do this called s Batch Window
+    - A Batch Window: A time slot where online activity is less intensive. So midnight will be considered as Batch window to do so.
