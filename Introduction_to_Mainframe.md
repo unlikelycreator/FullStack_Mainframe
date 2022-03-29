@@ -132,7 +132,7 @@
             - Uses ClIcs (Customer information Control System).
             - Eg: Money withdrawal from ATM, Booking airplane tickets.
       
-# Inreoduction to Batch Process
+# Introduction to Batch Process
       - Execution of set of programs without manual intervention.
         Eg: Instagram Upload Images.
           - Uploaded Images need to be compressed to be stored in large databases so a time slot is allocated to do this called s Batch Window
